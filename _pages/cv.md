@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://omsaran.github.io/files/Om_Resume.pdf)
+[Download](http://omsaran.github.io/files/Om_Resume_One_Page.pdf)
